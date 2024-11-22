@@ -1,3 +1,33 @@
+🌟 Excited to Share My Latest Project: Actodo Daily Activity App! 🌟
+
+I’m thrilled to introduce Actodo, a React-based application designed to organize and manage daily activities effortlessly. 🚀
+
+💡 Features:
+
+Clean and intuitive UI for smooth user experience.
+
+Ability to add, edit, and delete daily activities.
+
+Responsive design ensuring compatibility across devices.
+
+Efficient state management using React hooks.
+
+
+This project challenged me to enhance my skills in React, including component structuring, event handling, and managing dynamic content.
+
+Check out my work on GitHub: [🔗https://github.com/MathankumarNagaraj/actodo]
+
+Actodo App Link: [🔗https://actodo-pearl.vercel.app/]
+
+LinkedIn:[🔗https://www.linkedin.com/posts/mathankumar-n-4483442b1_reactjs-webdevelopment-frontenddevelopment-activity-7265755264643919873--V8M?utm_source=share&utm_medium=member_android]
+
+
+I’d love to hear your thoughts or suggestions for further improvements!
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
